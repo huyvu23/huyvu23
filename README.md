@@ -11,7 +11,7 @@
 
 - 🌱 I’m focusing to become **Full-stack Developer 🤦‍♂.**
 
-- 📫 How to reach me **vuh32616@gmail.com**
+- 📫 Contact **vuh32616@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
