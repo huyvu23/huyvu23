@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huyvu23&label=Profile%20views&color=0e75b6&style=flat" alt="huyvu23" /> </p>
 
-- 🔭 I’m currently working on [Giaohangsieuviet](https://giaohangsieuviet.com/)
 
 - 🌱 I’m focusing to become **Full-stack Developer 🤦‍♂.**
 
