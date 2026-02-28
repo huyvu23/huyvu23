@@ -28,11 +28,12 @@
   
 </div>
 
+
 <h2 align="center">🛠 Tech Stack & Tools</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,redux,html,css,tailwind,sass,bootstrap,mysql,postman,git,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,redux,html,css,tailwind,sass,bootstrap,java,spring,postgres,mysql,postman,git,vscode&perline=8" />
   </a>
 </p>
 
